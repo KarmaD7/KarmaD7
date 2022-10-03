@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 210 Contributions in the Year 2022
- > 
-> 📦 129.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
- > 
 **I Mostly Code in C++** 
 
 ```text
@@ -43,5 +31,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2022 18:55:30 UTC
+ Last Updated on 03/10/2022 06:31:23 UTC
 <!--END_SECTION:waka-->
